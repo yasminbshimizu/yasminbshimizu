@@ -8,6 +8,10 @@
 - 🌱 Estudando ***Python***, especialmente *Machine Learning* e *Redes Neurais*.
 - ⚡ Fun fact: Amante de matemática e matemática computacional 🤩
 
+<div align="center" valign="top"><br>
+<img align="center" alt="Ilum-CNPEM" width="250" src="./logo ilum cnpemm.png">
+</div><br>
+
 ##
 
 <div align="center">
