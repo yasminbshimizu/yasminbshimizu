@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oioi! Meu nome é Yasmin Shimizu :))</h1>
+  <h2 align="center">    Oioi! Meu nome é Yasmin Shimizu :))  </h2>
   <h4 align="center"> Bem-vinde ao meu GitHub! Aqui você encontra projetos desenvolvidos ao longo da minha graduação - sejam coletivos ou individuais -, e alguns projetos independentes à título de curiosidade 😁
   </a><br>
 </div>
@@ -7,7 +7,7 @@
 
 <img align="right" alt="gif picrew" width="120" src="./gif-picrew.gif">
 
-- 🔭 Sou estudante do Bacharelado em **Ciência, Tecnologia e Inovação** na *Ilum Escola de Ciência*, instituição vinculada ao **CNPEM** (*Centro Nacional de Pesquisa em Energia e Materiais*).
+- 🔭 Estudante do Bacharelado em **Ciência, Tecnologia e Inovação** na *Ilum Escola de Ciência*, instituição vinculada ao **CNPEM** (*Centro Nacional de Pesquisa em Energia e Materiais*).
 - 🌱 Estudando ***Python***, especialmente *Machine Learning* e *Redes Neurais*.
 - ⚡ Fun fact: Amante de matemática e matemática computacional 🤩
 
@@ -20,8 +20,7 @@
 <div align="center">
   <a href="https://github.com/yasminbshimizu/C011-M01-LAP/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yasminbshimizu&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=false&show_owner=true"/>
-    <img align="center" alt="gif picrew" width="200" src="./gif-picrew.gif">
-    <!---<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminbshimizu&theme=material-palenight&hide_border=false&&layout=compact"/> -->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminbshimizu&theme=material-palenight&hide_border=false&&layout=compact"/> 
   </a>
 </div>
 
