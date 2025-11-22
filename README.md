@@ -7,6 +7,7 @@
 <div align="center" style="line-height:1.2;">
   🔭 Ciência, Tecnologia e Inovação | Ilum Escola de Ciência | CNPEM<br>
   ⚡ Matemática Computacional - Fuzzy | <i>Machine Learning & Deep Learning</i> - Processamento de Imagens<br>
+  <!-- ⚡ Matemática e Lógica Fuzzy | Processamento de Imagens<br> -->
   🌱 <b><i>Python</i></b>
 </div>
 
