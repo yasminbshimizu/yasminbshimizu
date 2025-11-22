@@ -37,7 +37,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cpluspl
 <div align="center">
   <a href="https://www.instagram.com/minbsz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
-  <a href="https://www.linkedin.com/in/yasmin-bshimz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://lattes.cnpq.br/7813674402525956" target="_blank">
+  <img src="https://img.shields.io/badge/Lattes-66B9F0?style=for-the-badge&logoColor=white" />
+</a>
+  <a href="https://www.linkedin.com/in/yasmin-bshimz/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <!--- <a href="mailto:yasminbshimz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="mailto:yasmin24023@ilum.cnpem.br">  <img src="https://img.shields.io/badge/-Email-%23E0B0FF?style=for-the-badge&logo=mail&logoColor=white" target="_blank">
 </a>
