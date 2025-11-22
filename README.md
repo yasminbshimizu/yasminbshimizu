@@ -4,12 +4,18 @@
   </a><br>
 </div>
 
+<div align="center" style="line-height:1.2;">
+  🔭 Ciência, Tecnologia e Inovação | Ilum Escola de Ciência | CNPEM<br>
+  ⚡ Matemática Computacional - Fuzzy | <i>Machine Learning & Deep Learning</i> - Processamento de Imagens<br>
+  🌱 <b><i>Python</i></b>
+</div>
 
-<img align="right" alt="gif picrew" width="120" src="./gif-picrew.gif">
+<br>
 
-- 🔭 Estudante do Bacharelado em **Ciência, Tecnologia e Inovação** na *Ilum Escola de Ciência*, instituição vinculada ao **CNPEM** (*Centro Nacional de Pesquisa em Energia e Materiais*).
-- 🌱 Estudando ***Python***, especialmente *Machine Learning* e *Redes Neurais*.
-- ⚡ Fun fact: Amante de matemática e matemática computacional 🤩
+<p align="center">
+  <img src="./gif-picrew.gif" alt="gif picrew" width="150">
+</p>
+
 
 <div align="center" valign="top"><br>
 <img align="center" alt="Ilum-CNPEM" width="250" src="./logo ilum cnpemm.png">
