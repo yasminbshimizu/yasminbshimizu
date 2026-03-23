@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cpluspl
   <a href="http://lattes.cnpq.br/7813674402525956" target="_blank">
   <img src="https://img.shields.io/badge/Lattes-66B9F0?style=for-the-badge&logoColor=white" />
 </a>
-  <a href="https://www.linkedin.com/in/yasmin-bshimz/" target="_blank">
+  <a href="https://www.linkedin.com/in/yasminbshimizu/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   <!--- <a href="mailto:yasminbshimz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
